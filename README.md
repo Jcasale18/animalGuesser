@@ -16,7 +16,7 @@
 # Current Plan (For Static Model)
 <h2 align="left"> Overview</h2>
 <p2 align="left">
-Cost minimization will be one aspect of the project. IOS applications will have to compiled on a Mac OS; as such, I plan to use [CloudInMac](https://www.macincloud.com/), which will charge a monthly fee. While it is not too high cost, to save money, and so we know where we're shooting, we will design the back-end first. Incase you're wondering what I mean by "static model," we will first get the app communicating with a rudimentary model. The TensorFlow model will be trained with seeded data, and simply be inquired for a prediction. The dynamic model, where new data will be added to the model, will be kept in mind as we design the API.
+Cost minimization will be one aspect of the project. IOS applications will have to compiled on a Mac OS; as such, I plan to use <a href="https://www.macincloud.com/" target = "_blank">CloudInMac</a>, which will charge a monthly fee. While it is not too high cost, to save money, and so we know where we're shooting, we will design the back-end first. Incase you're wondering what I mean by "static model," we will first get the app communicating with a rudimentary model. The TensorFlow model will be trained with seeded data, and simply be inquired for a prediction. The dynamic model, where new data will be added to the model, will be kept in mind as we design the API.
 
 The data from the client will be processed to conform to the expected input of the model. Since we would like to minimize the amount of memory the consumer uses, it would be ideal to do as much of this processing on our end as possible, while maintaining reasonable request package size. The classification the model predicts will most likely be a concise string to be sent back to the client-side.
 
@@ -45,3 +45,10 @@ The application will most likely be an IOS application developed in swift. The a
 
 >More on the application shortly.
 </p2>
+</details>
+
+# Funded by SSE
+<h1 align="center">
+    <br>
+    <img src="https://avatars.githubusercontent.com/u/1082445?s=200&v=4" width="200" alt = "SSE">
+</h1>
