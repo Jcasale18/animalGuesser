@@ -6,5 +6,5 @@
 <h4 align="center">An IOS (for the meantime) game for guessing doodles.</h4>
 
 <p>
-    PictionFlow will be a mobile application seeded with data from <a href="https://github.com/googlecreativelab/quickdraw-dataset">Quick, Draw!<\a> dataset.
+    PictionFlow will be a mobile application seeded with data from <a href="https://github.com/googlecreativelab/quickdraw-dataset" target="_blank">Quick, Draw!</a>
 </p>
