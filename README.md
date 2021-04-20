@@ -52,3 +52,8 @@ The application will most likely be an IOS application developed in swift. The a
     <br>
     <img src="https://avatars.githubusercontent.com/u/1082445?s=200&v=4" width="200" alt = "SSE">
 </h1>
+
+Led by Joseph Casale
+
+Contributors:
+TBD at first meeting
