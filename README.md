@@ -9,10 +9,10 @@
     PictionFlow will be a mobile application seeded with data from <a href="https://github.com/googlecreativelab/quickdraw-dataset" target="_blank">Quick, Draw!</a>
 </p>
 
-
+<br>
 <details>
 <summary>Current Trajectory</summary>
-
+<br>
 # Current Plan (For Static Model)
 <h2 align="left"> Overview</h2>
 <p2 align="left">
